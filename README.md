@@ -1,2 +1,0 @@
-# interPSS
-power system simulation
